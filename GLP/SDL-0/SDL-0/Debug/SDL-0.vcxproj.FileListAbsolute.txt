@@ -1,0 +1,3 @@
+D:\3TD\Nathan\Advanced-OpenGL-Starter-Project\GLP\SDL-0\SDL-0\Debug\SDL-0.vcxproj.MdMergeInputs.cache
+D:\3TD\Nathan\Advanced-OpenGL-Starter-Project\GLP\SDL-0\SDL-0\Debug\SDL-0.vcxproj.cppwinrt_plat.cache
+D:\3TD\Nathan\Advanced-OpenGL-Starter-Project\GLP\SDL-0\SDL-0\Debug\SDL-0.vcxproj.cppwinrt_comp.cache
