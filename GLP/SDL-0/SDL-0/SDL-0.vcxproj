@@ -85,6 +85,7 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="dsf.shader" />
     <None Include="fragment.shader" />
     <None Include="vertex.shader" />
   </ItemGroup>

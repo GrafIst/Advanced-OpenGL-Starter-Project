@@ -26,5 +26,8 @@
     <None Include="fragment.shader">
       <Filter>Fichiers sources</Filter>
     </None>
+    <None Include="dsf.shader">
+      <Filter>Fichiers sources</Filter>
+    </None>
   </ItemGroup>
 </Project>
